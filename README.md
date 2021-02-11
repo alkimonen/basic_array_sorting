@@ -12,6 +12,7 @@ Makefile uses **Makefile** and **g++** as compiler. These packages should be ins
 To compile the project, run commands below after navigating to the projects directory
 
 > make
+
 > make run
 
 You can see the resuts in the terminal.
