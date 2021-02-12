@@ -14,7 +14,7 @@ After navigating to the projects directory to compile the project execute
 make
 ```
 
-After compiation, in order to run the project, run command below
+After compilation, in order to run the project, run command below
 ```
 make run
 ```
